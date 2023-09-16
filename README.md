@@ -11,7 +11,7 @@ Picture : me with an NS Class 1500 locomotive, taken at the Spoorwegmuseum in Ut
 
 ### My badges and certifications:
 <a href="https://www.credly.com/badges/d218a1df-c8fe-4162-97bd-fb6aed93ce7a"><img height="200" src="images/AWS Certified Cloud Practitioner.png"></a>
-<a href="https://www.credly.com/badges/6fe90dc4-81c3-471a-9270-44bb0e4e5add"><img height="200" src="images/AWS Cloud Quest - Cloud Practitioner.png"></a>
+<a href="https://www.credly.com/badges/eb904100-2378-47ff-a832-ca24f095aa3e"><img height="200" src="images/AWS Cloud Quest - Cloud Practitioner.png"></a>
 <a href="https://www.credly.com/badges/a2c7f8e0-3066-4968-8dec-6e62d5f13d9e"><img height="200" src="images/IBM i V7.4 Operator.png"></a>
 <a href="https://www.credly.com/badges/7825eddd-7af3-4dea-b77c-8be66ef3c754"><img height="200" src="images/IBM i V7.4 System Administrator - Security.png"></a>
 <a href="https://www.credly.com/badges/1ed2a536-ba9a-4b89-a2fd-c33f4ffeb0ba"><img height="200" src="images/IBM i V7.4 System Administrator - LPAR and Virtualization Management.png"></a>
@@ -30,8 +30,8 @@ Picture : me with an NS Class 1500 locomotive, taken at the Spoorwegmuseum in Ut
 
 ---
 
-- 🎓 I am currently learning more about IBM i, AWS and Red Hat.
-- ⚙ I am working on projects for the IBM i community and Ansible for Power.
+- 🎓 I am currently learning more about [IBM i](https://www.ibm.com/products/ibm-i), [AWS](https://aws.amazon.com/) and [Red Hat](https://www.redhat.com/).
+- ⚙ I am working on projects for the IBM i community and [Ansible](https://www.ansible.com/) for Power.
 - 🧩 About me : in my free time, I like to watch documentaries, check my favorites ([my IMDb profile](https://www.imdb.com/user/ur89224667))
 ---
 
