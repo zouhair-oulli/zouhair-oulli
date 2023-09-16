@@ -9,7 +9,7 @@ Picture : me with an NS Class 1500 locomotive, taken at the Spoorwegmuseum in Ut
 
 ---
 
-### My badges and certifications:
+### My certifications and badges :
 <a href="https://www.credly.com/badges/d218a1df-c8fe-4162-97bd-fb6aed93ce7a"><img height="200" src="images/AWS Certified Cloud Practitioner.png"></a>
 <a href="https://www.credly.com/badges/eb904100-2378-47ff-a832-ca24f095aa3e"><img height="200" src="images/AWS Cloud Quest - Cloud Practitioner.png"></a>
 <a href="https://www.credly.com/badges/a2c7f8e0-3066-4968-8dec-6e62d5f13d9e"><img height="200" src="images/IBM i V7.4 Operator.png"></a>
