@@ -33,7 +33,7 @@ You can view my content on the following pages:
   
 ### My recommendations
 - [Useful websites & apps](https://zouhair-oulli.notion.site/websites-software-apps)
-- [x](https://zouhair-oulli.notion.site/books)
+- [Livres](https://zouhair-oulli.notion.site/livres)
 - [Music Albums](https://zouhair-oulli.notion.site/music-albums)
 - [Documentaries](https://zouhair-oulli.notion.site/documentaries)
 - [Films](https://zouhair-oulli.notion.site/films)
