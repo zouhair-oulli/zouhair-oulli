@@ -1,6 +1,6 @@
-Hello, my name is Zouhair. I work as an IBM i system administrator at Kyndryl, where I specialize in automation with Ansible.  In my free time, I like reading books.  
+Hello, my name is Zouhair. I work as an IBM i system administrator at Kyndryl.   
 
-I have created a [website](http://zouhair-oulli.notion.site) where I share courses about the IBM i platform, my hobbies, and other topics. This allows me to contribute to the community and share my knowledge with everyone.  
+I have created a [website](http://zouhair-oulli.notion.site) where I share courses and articles about the IBM i platform, my hobbies, and other topics. This allows me to contribute to the community and share my knowledge with everyone.  
 
 You can view my content on the following pages:  
 
@@ -45,4 +45,4 @@ You can view my content on the following pages:
 - [Airplanes](https://zouhair-oulli.notion.site/airplanes)
 - [Trains](https://zouhair-oulli.notion.site/trains)
 
-I will be creating and sharing more content. You can find the upcoming topics on the main page of my website: [zouhair-oulli.notion.site](http://zouhair-oulli.notion.site)
+I will be creating and sharing more content. You can find the upcoming topics on the main page: [zouhair-oulli.notion.site](http://zouhair-oulli.notion.site)
